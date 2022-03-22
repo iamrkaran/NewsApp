@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "572209396830",
+    "project_id": "newsapp-6715a",
+    "storage_bucket": "newsapp-6715a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572209396830:android:cd36bcfc536f5105abc8cf",
+        "android_client_info": {
+          "package_name": "com.clutchx.newsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572209396830-212j3b2uhehlrbs6vltmiouq8f5olvgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcEUAn-du3NNIu6IhePRs-v6382dugklk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572209396830-212j3b2uhehlrbs6vltmiouq8f5olvgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
